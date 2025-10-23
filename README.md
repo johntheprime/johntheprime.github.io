@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# Creation of this site
+
+- create basic src files using below command
+
+```
+npm create vite@latest site-name -- --template react
+```
+
+- write the github action yaml
+
+
 <!--
 **johntheprime/Johntheprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
