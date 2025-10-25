@@ -7,8 +7,8 @@ export default function Highlights() {
         🛠️ <strong>Tools</strong><br />Custom utilities for developers.
       </Link>
 
-      <Link to="/blog" className="card link-card">
-        📝 <strong>Blog</strong><br />Articles and thoughts worth sharing.
+      <Link to="/blogs" className="card link-card">
+        📝 <strong>Blogs</strong><br />Articles and thoughts worth sharing.
       </Link>
 
       <Link to="/about" className="card link-card">
