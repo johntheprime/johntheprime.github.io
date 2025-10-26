@@ -64,7 +64,7 @@ export default function Blog() {
 
   return (
     <div className="blog-page">
-      <h2>📝 Blogs</h2>
+      <h2>Blogs</h2>
 
       {!currentPost && (
         <ul className="post-list">

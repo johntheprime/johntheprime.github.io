@@ -1,0 +1,1 @@
+- [dive into deep learning course](https://zh.d2l.ai/index.html) 
